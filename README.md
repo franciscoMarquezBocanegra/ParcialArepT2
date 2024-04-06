@@ -83,7 +83,7 @@ http://ec2-54-226-221-104.compute-1.amazonaws.com:4568
 
 Vemos que el recurso carga
 
-![image](https://github.com/franciscoMarquezBocanegra/ParcialArepT2/assets/98216991/093391ec-8539-40f4-aba1-f7e23e8f17e1)
+![image](https://github.com/franciscoMarquezBocanegra/ParcialArepT2/assets/98216991/b12f3611-f387-489d-8f9d-7e28a9d1775a)
 
 
 ## Clases que resuelven el problema 
@@ -96,6 +96,20 @@ Vemos que el recurso carga
 
 
 ## Ejemplos de funcionamiento
+```
+http://ec2-54-226-221-104.compute-1.amazonaws.com:4568/
+```
+## Linear search - Lista: 10,20,13,40 valor:13
+
+![image](https://github.com/franciscoMarquezBocanegra/ParcialArepT2/assets/98216991/68f36697-d2a8-4eff-bb3a-564fc771c96f)
+
+## Linear search - Lista: 10,20,13,40 valor:99
+![image](https://github.com/franciscoMarquezBocanegra/ParcialArepT2/assets/98216991/7a8a4047-86a0-431f-b26a-81dbffbd6e3b)
+
+## Binary search - Lista: 10,20,13,40 valor:13
+![image](https://github.com/franciscoMarquezBocanegra/ParcialArepT2/assets/98216991/716e937a-f4b4-476a-9937-ff8c029ae7c5)
+
+
 ```
 http://ec2-54-226-221-104.compute-1.amazonaws.com:4568/linearsearch?list=10,20,13,40,60&value=13
 ```
@@ -122,7 +136,7 @@ https://youtu.be/06jwTNKWbX4?feature=shared
 
 ### Video mejorado
 
-https://youtu.be/xSBempligjE
+https://youtu.be/7u7PE5M-0-A
 
 
 ## Construido con
