@@ -132,4 +132,5 @@ https://youtu.be/xSBempligjE
 * [Java 17](https://www.java.com/es/): Lenguaje de programación de propósito general con enfoque a el paradigma de orientado a objetos, y con un fuerte tipado de variables.
 * [AWS](https://awsacademy.instructure.com/) : Academia de AWS que ofrece cursos y recursos de aprendizaje que nos permiten a nosotros los estudiantes desarrollar diferentes habilidades relacionadas con la nube de AWS.
 
-### Autor Francisco Marquez
+### Autor 
+Francisco Marquez
