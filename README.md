@@ -115,7 +115,7 @@ http://ec2-54-226-221-104.compute-1.amazonaws.com:4568/binarysearch?list=10,20,1
 
 
 
-### Video
+### Video día del parcial
 
 https://youtu.be/06jwTNKWbX4?feature=shared
 
