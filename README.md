@@ -69,7 +69,8 @@ java -cp "./bin/classes:./bin/dependency/*" org.example.Proxy
 
 Nota: Dado que el proyecto se construyó para ser corrido remotamente este no funciona en local
 
-![image](https://github.com/franciscoMarquezBocanegra/ParcialArepT2/assets/98216991/eb46b1e7-f7ed-401f-9174-8e815f09db28)
+![image](https://github.com/franciscoMarquezBocanegra/ParcialArepT2/assets/98216991/cde38ccd-dd15-41b0-ab9a-847832322178)
+
 
 
 ### En remoto
