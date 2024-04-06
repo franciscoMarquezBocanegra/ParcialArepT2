@@ -101,10 +101,11 @@ http://ec2-54-226-221-104.compute-1.amazonaws.com:4568/
 ```
 ## Linear search - Lista: 10,20,13,40 valor:13
 
-![image](https://github.com/franciscoMarquezBocanegra/ParcialArepT2/assets/98216991/68f36697-d2a8-4eff-bb3a-564fc771c96f)
+![image](https://github.com/franciscoMarquezBocanegra/ParcialArepT2/assets/98216991/7a8a4047-86a0-431f-b26a-81dbffbd6e3b)
 
 ## Linear search - Lista: 10,20,13,40 valor:99
-![image](https://github.com/franciscoMarquezBocanegra/ParcialArepT2/assets/98216991/7a8a4047-86a0-431f-b26a-81dbffbd6e3b)
+
+![image](https://github.com/franciscoMarquezBocanegra/ParcialArepT2/assets/98216991/68f36697-d2a8-4eff-bb3a-564fc771c96f)
 
 ## Binary search - Lista: 10,20,13,40 valor:13
 ![image](https://github.com/franciscoMarquezBocanegra/ParcialArepT2/assets/98216991/716e937a-f4b4-476a-9937-ff8c029ae7c5)
